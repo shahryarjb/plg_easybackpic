@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6" type="plugin" group="easyblog" method="upgrade">
+	<name>plg_easybackpic</name>
+	<author>Trangell co</author>
+	<creationDate>2016</creationDate>
+	<copyright>(C) 2016 trangell .Co. All rights reserved.</copyright>
+	<license>GPL License</license>
+	<authorEmail>info@trangell.com</authorEmail>
+	<authorUrl>https://trangell.com</authorUrl>
+	<version>0.0.1</version>
+	<description>اتصال دهنده افزونه ایزی بلاگ به کامپوننت بک پیک</description>
+	<files>
+		<filename plugin="plg_easybackpic">plg_easybackpic.php</filename>
+		<filename plugin="plg_easybackpic">index.html</filename>
+	</files>
+	
+	<updateservers>
+        <server type="extension" priority="1" name="plg_easybackpic">https://trangell.com/ext/updates/plugin/plg_easybackpic.xml</server>
+    </updateservers>
+    
+</extension>
