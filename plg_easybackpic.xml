@@ -8,7 +8,7 @@
 	<authorEmail>info@trangell.com</authorEmail>
 	<authorUrl>https://trangell.com</authorUrl>
 	<version>0.0.1</version>
-	<description>اتصال دهنده افزونه ایزی بلاگ به کامپوننت بک پیک</description>
+	<description>easyblog - backpic plugin</description>
 	<files>
 		<filename plugin="plg_easybackpic">plg_easybackpic.php</filename>
 		<filename plugin="plg_easybackpic">index.html</filename>
